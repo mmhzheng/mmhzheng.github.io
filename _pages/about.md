@@ -94,6 +94,7 @@ My research interests lie in the areas of:
 
 # 🎖 Honors and Awards
 
+- *2024.12*: Received (my second) National Scholarship for Ph.D. students.
 - *2022.12*: Received National Scholarship for Ph.D. students.
 - *2017.12*: Awarded National Scholarship for Undergraduate students.
 
