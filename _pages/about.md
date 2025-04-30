@@ -22,7 +22,7 @@ redirect_from:
 
 Hi there 👋
 
-I am a fourth-year Ph.D. student in the Computer Science Department at Nanjing University, China,
+I am a fif-year Ph.D. student in the Computer Science Department at Nanjing University, China,
 \\
 under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm). 
 
@@ -34,6 +34,7 @@ My research interests lie in the areas of:
 * Programmable networks
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 Paper: StarPulse accepted by SIGCOMM 2025.
 - *2024.07*: &nbsp;🎉🎉 Paper: P4RTC accepted by NSDI 2025.
 - *2024.05*: &nbsp;🎉🎉 Paper: μMon accepted by SIGCOMM 2024.
 - *2023.09*: &nbsp;🎉🎉 Paper: Unison accepted by Eurosys 2024.
@@ -41,6 +42,12 @@ My research interests lie in the areas of:
 
 # 📝 Publications 
 
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  SIGCOMM'25 &nbsp;</span>
+  *ecture*. 
+  - 👤Qingkai Meng, **Hao Zheng**, Zhenhui Zhang, ChonLam Lao, Chengyuan Huang, Baojia Li, Ziyuan Zhu, Hao Lu, Weizhen Dang, Zitong Lin, Weifeng Zhang, Lingfeng Liu, Yuanyuan Gong, Chunzhi He, Xiaoyuan Hu, Yinben Xia, Xiang Li, Zekun He, Yachen Wang, Xianneng Zou, Kun Yang, Gianni Antichi, Guihai Chen, Chen Tian
+</div>
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
