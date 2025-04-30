@@ -22,14 +22,14 @@ redirect_from:
 
 Hi there 👋
 
-I am a fif-year Ph.D. student in the Computer Science Department at Nanjing University, China,
+I am a fifth-year Ph.D. student in the Computer Science Department at Nanjing University, China,
 \\
 under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm). 
 
 ---
 
 My research interests lie in the areas of:
-* Data center networks (DCN)
+* High-performance network
 * Network measurement
 * Programmable networks
 
