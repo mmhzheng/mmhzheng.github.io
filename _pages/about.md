@@ -45,7 +45,7 @@ My research interests lie in the areas of:
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   SIGCOMM'25 &nbsp;</span>
-  *ecture*. 
+  *StarPulse: A Datacenter Infrastructure for Large Language Model Training at Scale*. 
   - 👤Qingkai Meng, **Hao Zheng**, Zhenhui Zhang, ChonLam Lao, Chengyuan Huang, Baojia Li, Ziyuan Zhu, Hao Lu, Weizhen Dang, Zitong Lin, Weifeng Zhang, Lingfeng Liu, Yuanyuan Gong, Chunzhi He, Xiaoyuan Hu, Yinben Xia, Xiang Li, Zekun He, Yachen Wang, Xianneng Zou, Kun Yang, Gianni Antichi, Guihai Chen, Chen Tian
 </div>
 
