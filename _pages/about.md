@@ -22,9 +22,7 @@ redirect_from:
 
 Hi there 👋
 
-I am a fifth-year Ph.D. student in the Computer Science Department at Nanjing University, China,
-\\
-under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm). 
+I am a Network Engineer and Researcher at ByteDance. I obtained my Ph.D. in Computer Science from the Department of Computer Science and Technology, Nanjing University, where I was advised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm). 
 
 ---
 
